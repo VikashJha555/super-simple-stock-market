@@ -22,7 +22,8 @@ This Python application simulates a basic stock market for the Global Beverage C
 1. Clone this repository or download the source code.
 2. Navigate to the project directory.
 3. Run the Python script using:
-   ```python stock_market_demo.py
+   ```sh
+   python stock_market_demo.py
    ```
 
 ## Formulas Used
